@@ -1,0 +1,16 @@
+{
+"manifest_version": 2, 
+"name": "Google Voice",
+"description": "Link to the Google Voice website",
+"version": "1.0",
+"app": {
+    "launch": {
+        "web_url": "https://voice.google.com/"
+       }
+   },
+
+"icons": {
+    "128": "128.png",
+    "16": "16.png"
+   }
+}
