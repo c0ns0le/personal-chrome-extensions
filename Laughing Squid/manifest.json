@@ -1,0 +1,16 @@
+{
+"manifest_version": 2, 
+"name": "Laughing Squid",
+"description": "Link to the Laughing Squid website",
+"version": "1.0",
+"app": {
+    "launch": {
+        "web_url": "http://www.laughingsquid.com/"
+       }
+   },
+
+"icons": {
+    "128": "128.png",
+    "16": "16.png"
+   }
+}

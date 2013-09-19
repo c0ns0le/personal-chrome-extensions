@@ -1,0 +1,16 @@
+{
+"manifest_version": 2, 
+"name": "localhost:3000",
+"description": "Link to localhost ruby server",
+"version": "1.0",
+"app": {
+    "launch": {
+        "web_url": "http://localhost:3000"
+       }
+   },
+
+"icons": {
+    "128": "128.png",
+    "16": "16.png"
+   }
+}
