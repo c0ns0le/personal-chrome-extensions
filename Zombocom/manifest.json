@@ -1,0 +1,15 @@
+{
+"manifest_version": 2, 
+"name": "Zombocom",
+"description": "Link to Zombocom website",
+"version": "1.0",
+"app": {
+    "launch": {
+        "web_url": "http://www.zombo.com/"
+       }
+   },
+
+"icons": {
+    "256": "256.png"
+   }
+}
