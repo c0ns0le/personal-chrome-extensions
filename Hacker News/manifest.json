@@ -1,0 +1,15 @@
+{
+"manifest_version": 2, 
+"name": "Hacker News",
+"description": "Link to the Hacker News site",
+"version": "1.0",
+"app": {
+    "launch": {
+        "web_url": "https://news.ycombinator.com/news"
+       }
+   },
+
+"icons": {
+    "128": "128.png"
+   }
+}
