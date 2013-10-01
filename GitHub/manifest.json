@@ -1,0 +1,15 @@
+{
+"manifest_version": 2, 
+"name": "GitHub",
+"description": "Link to the GitHub website",
+"version": "1.0",
+"app": {
+    "launch": {
+        "web_url": "https://github.com/"
+       }
+   },
+
+"icons": {
+    "128": "128.png"
+   }
+}
