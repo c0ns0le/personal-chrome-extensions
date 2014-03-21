@@ -1,0 +1,15 @@
+{
+"manifest_version": 2,
+"name": "ArchWiki",
+"description": "Link to ArchWiki",
+"version": "1.0",
+"app": {
+    "launch": {
+        "web_url": "https://wiki.archlinux.org/"
+       }
+   },
+
+"icons": {
+    "512": "512.png"
+   }
+}

@@ -1,0 +1,15 @@
+{
+"manifest_version": 2, 
+"name": "BTSync",
+"description": "Link to BTSync",
+"version": "1.0",
+"app": {
+    "launch": {
+        "web_url": "http://localhost:8889/gui/en/index.html"
+       }
+   },
+
+"icons": {
+    "256": "256.png"
+   }
+}

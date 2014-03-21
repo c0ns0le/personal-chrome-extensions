@@ -1,7 +1,7 @@
 {
 "manifest_version": 2, 
-"name": "localhost:3000",
-"description": "Link to localhost ruby server",
+"name": "Ruby Server",
+"description": "Link to local Ruby Server",
 "version": "1.0",
 "app": {
     "launch": {

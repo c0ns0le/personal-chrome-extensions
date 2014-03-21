@@ -1,0 +1,15 @@
+{
+"manifest_version": 2,
+"name": "D2L",
+"description": "Link to D2L",
+"version": "1.0",
+"app": {
+    "launch": {
+        "web_url": "https://d2l.arizona.edu/index.asp"
+       }
+   },
+
+"icons": {
+    "256": "256.png"
+   }
+}

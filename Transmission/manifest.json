@@ -1,0 +1,15 @@
+{
+"manifest_version": 2,
+"name": "Transmission",
+"description": "Link to Transmission",
+"version": "1.0",
+"app": {
+    "launch": {
+        "web_url": "http://localhost:9091/transmission/web/"
+       }
+   },
+
+"icons": {
+    "512": "512.png"
+   }
+}
