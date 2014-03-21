@@ -24,7 +24,7 @@ function create_extension_folder {
   echo "   }," >> manifest.json
   echo "" >> manifest.json
   echo "\"icons\": {" >> manifest.json
-  echo "    \"128\": \"$CHRIMAGE.png\"" >> manifest.json
+  echo "    \"$CHRIMAGE\": \"$CHRIMAGE.png\"" >> manifest.json
   echo "   }" >> manifest.json
   echo "}" >> manifest.json
 }
